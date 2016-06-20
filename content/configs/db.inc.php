@@ -12,7 +12,7 @@
 /**
  * 数据库连接字符串，eg: mysql:host=127.1.1.0;dbname=personal;charset=utf8
  */
-$db_dns = 'mysql:host=localhost;dbname=oasys;charset=utf8';
+$db_dns = 'mysql:host=localhost;dbname=oa-sys;charset=utf8';
 /**
  * 数据库连接用户名
  */
@@ -20,7 +20,7 @@ $db_username = 'root';
 /**
  * 数据库连接密码
  */
-$db_password = 'root';
+$db_password = '';
 /**
  * 编码<br/>
  * PHP某些版本不支持PDO DNS直接设定编码，所以需要单独再设定一次。

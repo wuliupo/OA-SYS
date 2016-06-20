@@ -25,7 +25,7 @@ OA-SYS
 <p>2、配置完成后，请将相关文件拷贝到网站根目录下，并修改content目录权限。</p>
 <p>3、在数据库中创建oasys数据库，并运行/includes/install/install.sql内的SQL代码。</p>
 <p>4、建立数据库访问用户和密码，然后根据注释修改位于/content/configs/db.inc.php文件内有关配置信息。</p>
-<p>5、打开浏览器访问网站，默认的用户名是"oasysadmin"，密码是"adminadmin"。由于该平台设计初衷是演示用途，所以这里的用户名和密码、验证码会自动填写。</p>
+<p>5、打开浏览器访问网站，默认的用户名是"admin"，密码是"adminadmin"。由于该平台设计初衷是演示用途，所以这里的用户名和密码、验证码会自动填写。</p>
 
 FAQ
 ======
@@ -66,3 +66,7 @@ FAQ
 <p><a href="http://glyphicons.com">Glyphicons Free</a> licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
 <p>Jquery声明引用</p>
 <p>jQuery is provided under the <a href="http://jquery.org/license/">MIT license</a>.</p>
+
+TODO
+======
+ - 登录： admin / admin

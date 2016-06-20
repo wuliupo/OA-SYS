@@ -148,7 +148,7 @@ CREATE TABLE IF NOT EXISTS `oa_user` (
 --
 
 INSERT INTO `oa_user` (`id`, `user_username`, `user_password`, `user_email`, `user_name`, `user_group`, `user_date`, `user_login_date`, `user_ip`, `user_session`, `user_status`, `user_remember`) VALUES
-(1, 'oasysadmin', 'dd94709528bb1c83d08f3088d4043f4742891f4f', 'admin@admin.com', '管理员', 1, '2013-03-20 11:15:57', '2013-03-20 11:15:57', 2, 'cfcd208495d565ef66e7dff9f98764da', 1, 1);
+(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'admin@admin.com', '管理员', 1, '2013-03-20 11:15:57', '2013-03-20 11:15:57', 2, 'cfcd208495d565ef66e7dff9f98764da', 1, 1);
 
 -- --------------------------------------------------------
 
